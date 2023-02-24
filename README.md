@@ -1,1 +1,1 @@
-# pizza-restaurant-app
+# pizza restaurant app
